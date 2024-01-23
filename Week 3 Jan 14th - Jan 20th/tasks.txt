@@ -1,9 +1,18 @@
+Tuesday Jan 16th
+1. Worked on my collabs for sorting and interpolating many point clouds
 
-Mon Jan 22nd
-1. Made powerpoint presentation of My problem definition
-2. Had an in depth work through of my code with Saki. He gave me valuable feedback
-3. Worked in the office with Timmy, Sarah, Arbab
+Wednesday Jan 17th
+1. Made powerpoint and presented it to Dr. Baskar
+2. Walked with Dr. Baskar to the gym, from here we discussed LOI, semester goal and evaluations
+3. Attended team combined zoom meeting. 3-5pm
 
-Tue Jan 23rd
-1. Attended AIIRA geometry meeting and presented a bit. (Dr. Aditya, said we should meet later on)
-2. Working in office
+Thursday jan 18th
+1. Worked in the office, and had in depth discussion with Zaki
+2. Got random advice from teammates about how to work at TrAC
+
+Fri Jan 19th
+1. Attended the combined SIC PI meeting early, helped arrange seats
+2. Spoke to Dr. Aditya, and he suggested we meet every Monday to be on the same page
+
+Saturday Jan 20th
+1. Worked on making a minimum viable product code that I can demonstrate to the team
