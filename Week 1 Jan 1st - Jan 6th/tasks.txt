@@ -1,5 +1,0 @@
-
-Jan 20th
-1. Programmed and ran collab notebooks to make a basic goal of the problem I'm solving
-2. Made a GitHub repo for all my work like Dr. Aditya asked
-3. Started a PyTorch series on Youtube so that I can brushen up on some things I'm not sure about. Taking notes too: https://docs.google.com/document/d/1n-iq4bbdU1uCsw01ICYIQ0CqVQtF36pYVvax459tR3U/edit?usp=sharing 

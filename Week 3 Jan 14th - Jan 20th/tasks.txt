@@ -1,5 +1,9 @@
 
-Jan 20th
-1. Programmed and ran collab notebooks to make a basic goal of the problem I'm solving
-2. Made a GitHub repo for all my work like Dr. Aditya asked
-3. Started a PyTorch series on Youtube so that I can brushen up on some things I'm not sure about. Taking notes too: https://docs.google.com/document/d/1n-iq4bbdU1uCsw01ICYIQ0CqVQtF36pYVvax459tR3U/edit?usp=sharing 
+Mon Jan 22nd
+1. Made powerpoint presentation of My problem definition
+2. Had an in depth work through of my code with Saki. He gave me valuable feedback
+3. Worked in the office with Timmy, Sarah, Arbab
+
+Tue Jan 23rd
+1. Attended AIIRA geometry meeting and presented a bit. (Dr. Aditya, said we should meet later on)
+2. Working in office
