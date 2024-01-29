@@ -10,4 +10,23 @@ Tue Jan 23rd
 
 Wed Jan 24th
 1. Made my presentation to Dr. Baskar and got great feedback
-2. Offered to help Hossien with the GUI part of his work
+2. Offered to help Hossien with the GUI part of his work. Made and sent it to him that night
+
+Thursday Jan 25th 
+1. Met with Dr. Baskar for 20 minute evaluation meeting
+2. Attended the Deep Reinforcement Learning TrAC course
+3. Worked in the office 5-8pm
+
+Friday Jan 26th
+1. Took time to plan my next work week, (made a one week research goal)
+2. Worked with Mozhgan, Rudy, and Hossein in the lab. We walked through her pointNet code for a bit
+3. Red the PointNEt paper
+4. Rewatched a YouTube video that explained the paper
+5. Wrote code to demonstrate the pointNet paper code working
+6. Applied to shapeNet dataset, still waiting for access. Made numerous attempts of using my synthetic dataset but failed to run the code
+
+Saturday Jan 27th 
+1. Did literature study to find new papers to read
+2. Wrote code for an auto encoder decoder using pointNet
+3. Found online code for PointNetAE that appears to be working 
+4. Mozhagn shared with me some online code she'd found too

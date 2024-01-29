@@ -1,0 +1,3 @@
+Sunday Jan 28th 
+1. Read Research paper: A Scalable Active Framework for Region Annotation in 3D Shape Collections
+2. Watched PyTorch tutorial series on Youtube
