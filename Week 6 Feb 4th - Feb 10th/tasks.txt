@@ -1,0 +1,15 @@
+Sunday Feb 4th 
+1. Read paper Neural Splines- Fitting 3D Surfaces With Infinitely-Wide Neural Networks
+
+Monday Feb 5th
+1. Had my meeting with Dr. Aditya. Gave updates. Asked questions about:
+Lipschitz 
+pointNET autoencoder and baseline
+General code
+Got tips for how to read papers
+Discussed next papers to read
+Got advice on how to present during meetings
+
+2. Spoke to finance people as Dr. Aditya had suggested. (Consulted residency tuition assessment)
+3. Dr. Baskar Offers me a LOI
+4. Worked in Office from 10pm

@@ -26,6 +26,3 @@ Friday Feb 2nd
 1. Met with academic Adivsor to discuss my graduation date 
 2. Read paper on Implicit Geometric Regularization for Learning Shapes
 3. Had a good meeting with Dr. Baskar. He allowed me to speak my case, and agreed to find some funding for my tuition
-
-Sunday Feb 4th 
-1. Read paper Neural Splines- Fitting 3D Surfaces With Infinitely-Wide Neural Networks
