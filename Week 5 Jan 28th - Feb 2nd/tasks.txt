@@ -1,3 +1,31 @@
 Sunday Jan 28th 
 1. Read Research paper: A Scalable Active Framework for Region Annotation in 3D Shape Collections
 2. Watched PyTorch tutorial series on Youtube
+
+Monday Jan 29th
+1. Had first meeting with Dr. Aditya. I gave him a presentation of my problem definition and methods
+2. Had in depth discussion on Lipchitz regularization and interpolations. 
+3. Talked about Anushrut's work and how I can help
+
+Tuesday Jan 30th
+1. Attended the AIIRA geometry meeting and convinced Dr. Aditya to come to Wednesday's meeting
+2. Worked in person at the office
+3. Helped Hoessien run the code I made for him. (Frontend interface for AI chatbot)
+
+Wednesday Jan 31st
+1. Attended, presented and got feedback from Dr. Baskar and Dr. Aditya, about way forward. 
+2. Decided to use vanilla pointNEt Autoencoder decoder for baseline and DeepSDF instead 
+3. Had short meeting with Dr. Baskar about LOI
+4. Attended 3-5pm meeting, asked presenter many questions about Reinforcement learning for accurate spatial representation of images
+
+Thursday Feb 1st
+1. Walked with Dr. Aditya on campus. Discussed my work and next steps about my LOI
+. Reached out to Anushrut to schedule a time to meet 
+
+Friday Feb 2nd
+1. Met with academic Adivsor to discuss my graduation date 
+2. Read paper on Implicit Geometric Regularization for Learning Shapes
+3. Had a good meeting with Dr. Baskar. He allowed me to speak my case, and agreed to find some funding for my tuition
+
+Sunday Feb 4th 
+1. Read paper Neural Splines- Fitting 3D Surfaces With Infinitely-Wide Neural Networks
