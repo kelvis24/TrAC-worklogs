@@ -13,3 +13,21 @@ Got advice on how to present during meetings
 2. Spoke to finance people as Dr. Aditya had suggested. (Consulted residency tuition assessment)
 3. Dr. Baskar Offers me a LOI
 4. Worked in Office from 10pm
+
+Tuesday (whole day of Career fair and interview prep)
+1. Attended AIIRA geometry meeting and scheduled time to meet with Anushrut
+
+Wednesday (whole day interviews with Goldman Sachs)
+1. Attended Subgroup meeting on variational auto encoders
+2. Read Neural Splines paper
+3. Met with Anushrut for first onboarding and access to code and explanation
+
+Thursday (busy with Class Project presentation)
+
+Friday
+1. Read DIGS paper
+
+Saturday
+1. Studied DIGS paper again to grasp more information
+2. Met with Anushrut and got onboarded on his project
+
