@@ -1,0 +1,30 @@
+Sunday Feb 4th 
+1. Read article on Persistent Homology
+
+Monday Feb 5th
+1. Met with Nova@ISU to fix my nova authentication problem
+2. Had my meeting with Dr. Aditya. Gave updates. Discussed my problem definition
+Made plan to relate what I'm learning with Anush to my project
+Set weekly goals
+Asked questions about papers I just read
+3. Worked in lab from 9-8pm
+Learned how to use Nova and ru jobs (getting resources, tmux, slump scripts, conda, mech-ai,squeue)
+
+
+Tuesday (whole day of Career fair and interview prep)
+1. Attended AIIRA geometry meeting
+2. Attended 2hr Trac Course on Pytorch Mastery. Actively participated (missed class for it)
+
+Wednesday (whole day interviews with Goldman Sachs)
+1. Attended Subgroup meeting on GANS for topological design
+2. Worked in Lab from 8pm - 2:30am. (Running the 25 jobs of Anushrut)
+3. Set up schedule to meet Anushrut on Friday
+
+Thursday (busy with Class Project presentation)
+1. Worked in person at the Lab
+
+Friday
+
+
+Saturday
+
