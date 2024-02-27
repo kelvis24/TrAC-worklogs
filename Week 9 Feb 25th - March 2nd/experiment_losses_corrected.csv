@@ -1,0 +1,8 @@
+shape,network,layer_size,1,2,combo_1_wasserstein,combo_2_wasserstein,combo_1_2,combo_1_2_wasserstein,wasserstein
+1,MLP,4,1,1,0,0,1,0,0
+4,MLP,4,1,1,0,0,1,1,1
+1,MLP,4,1,1,1,0,0,0,1
+2,MLP,4,1,1,1,0,0,0,1
+4,MLP,4,1,1,0,1,0,0,1
+2,MLP_IGR,6,1,1,0,0,0,0,0
+4,MLP_IGR,6,1,1,0,0,0,0,0
