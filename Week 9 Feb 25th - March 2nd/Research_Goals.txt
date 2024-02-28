@@ -1,0 +1,7 @@
+
+Explore approaches for creating latent represnetations of point cloud data
+      - Identify tradeoffs between size of latent dimensions and accuracy of reconstruction
+     - Explore how such latent representations can be endowed with additional properties:   Lipschitz smoothness, clustering capabilitities, others?
+      - Approaches to deal with diversity of samples (i.e. some samples may be 40K points, some may be 60K points)
+- Can this latent representation be a function? can it be an image? Explore various architecture tweaks to convert the latent representation into a function or image
+- Do something tangible with TDA and Anushrut
