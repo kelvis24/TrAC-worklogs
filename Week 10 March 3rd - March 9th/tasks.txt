@@ -2,31 +2,33 @@ Sunday
 - Wrote entire baseline of PointNET AE from 11-5:30pm
 
 Monday 
-- Prepared presentation	for Dr. Aditya
-- Reran failed tests 
-- Began work on data analysis algorithms for graphs and plots to better show the data
--Done some early work on
-        Vanilla PointNET AE for point cloud shape reconstruction
-        MLP for 3D reconstruction using direct SDF loss (matching cubes for rendering)
-        MLP for 3D reconstruction using Eikonal Equation (matching cubes for rendering)
+- Prepared presentation for my PointNET work (colab)
+- Got feedback for my work
+- Demonstrated my code base, got some pointNET feedback
+- Discussed plans to start working on deepSDF
 
 
 Tuesday
-- Worked early morning in lab (9-1pm) (7-11pm)
-- Made new Slides for AIIRA geometry meeting 
-- Presented in AIIRA geometry meeting to Dr. Ardash, Dr. Aditya, and Dr. Soumick (got feedback)
-- Implemented feedback to my presentation.
-- Reran control test and first test. Cleaned some of my code
-- Communicated with Anushrut for next meeting time this week
+- Made my slides to introduce my research
+- Time wasn't enough in the meeting
+- Did some research work. Then went home for interview
+- Practiced presentation for Wednesday
 
 Wednesday 
-- Did more study of Persistent Homology
-- Met one on one with Dr. Baskar and Dr. Aditya, to research my TDA work (got feedback)
-- Got research goals from Dr. Aditya
-- Attended 3-5pm collective team meeting 
+- Presented TDA and my PointNET to Dr. Baskar
+- Stayed after meeting to talk about MSE for training
+- Planned my whole next week for work
+- Talked to James Cameron. Agreed to be interviewed for a paper
+- Attended meeting 3-5pm
+- Came back to lab to work after meeting
 
 Thursday
+- Studied and did exam 
 
 Friday
+- Went to the office to work. 
+- Day wasted on 2 major project proposal class assignments
 
-Saturday
+Saturday 
+- Did coding all day
+- Turned Colab into a GitHub project that is easily runnable
