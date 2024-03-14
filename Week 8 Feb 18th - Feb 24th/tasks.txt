@@ -22,11 +22,14 @@ Wednesday (whole day interviews with Goldman Sachs)
 
 Thursday (busy with Class Project presentation)
 1. Worked in person at the Lab
+2. Met with Anushrut early that morning and presented to him
 
 Friday
-
+1. Worked in lab 5pm -10pm
+2. Automated all my code with scripts to run my code without me
+3. Got access to the GPU 
 
 Saturday
-
+- Read papers
 
 
