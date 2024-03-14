@@ -1,5 +1,8 @@
 Sunday
-- 
+- Worked on ANushrut Code
+- Reran failed anushrut tests
+- Made graphs from anushrut results
+- Wrote a lot of code for Anushrut
 
 Monday 
 - Prepared presentation	for Dr. Aditya
@@ -24,9 +27,15 @@ Wednesday
 - Met one on one with Dr. Baskar and Dr. Aditya, to research my TDA work (got feedback)
 - Got research goals from Dr. Aditya
 - Attended 3-5pm collective team meeting 
+- Went to lab after
 
 Thursday
+- Went to the office to meet Anushrut and present updates
+- Asked him questions from Dr. Baskar
 
 Friday
+- Got feedback from Dr. Zaki for how to present
+- Worked in the lab
 
 Saturday
+- Started more work for my PointNET architecture 
