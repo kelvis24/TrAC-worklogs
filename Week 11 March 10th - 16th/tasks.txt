@@ -1,32 +1,48 @@
 Sunday
-- Wrote entire baseline of PointNET AE from 11-5:30pm
+- Prepared what I want to present on Monday. 2 Slides
+- Run my code on NOVA
+- Did reconstruction of latent vector
+- Ran on 128 latent size
 
 Monday 
-- Prepared presentation	for Dr. Aditya
-- Reran failed tests 
-- Began work on data analysis algorithms for graphs and plots to better show the data
--Done some early work on
-        Vanilla PointNET AE for point cloud shape reconstruction
-        MLP for 3D reconstruction using direct SDF loss (matching cubes for rendering)
-        MLP for 3D reconstruction using Eikonal Equation (matching cubes for rendering)
+- Gave no TDA updates
+- Met Zaki, got data, and help using cloud compare
+- Zaki reviewed my code and gave advice about T-NET
+- Presented to Dr. Aditya
+-	Improved my slides for Dr. Aditya and 
+-	Explained the conv1D layers and channels
+	Showed my log of loss
+-	Presented my slides for Tuesday's meeting
+	Showed Chamfer Distance loss discussions
+	Disucuss my PointNET AE
+- Run experiments with Plant Point Clouds
 
 
-Tuesday
-- Worked early morning in lab (9-1pm) (7-11pm)
-- Made new Slides for AIIRA geometry meeting 
-- Presented in AIIRA geometry meeting to Dr. Ardash, Dr. Aditya, and Dr. Soumick (got feedback)
-- Implemented feedback to my presentation.
-- Reran control test and first test. Cleaned some of my code
-- Communicated with Anushrut for next meeting time this week
+Tuesday (10am -10pm)
+- Attended Tuesday presentation with intent to present
+- Consulted Dr. Aditya about TNET
+- Tried different failed experiments for autodecoders
+- Read DeepSDF paper
+- clean code for pointNET
 
-Wednesday 
-- Did more study of Persistent Homology
-- Met one on one with Dr. Baskar and Dr. Aditya, to research my TDA work (got feedback)
-- Got research goals from Dr. Aditya
-- Attended 3-5pm collective team meeting 
+Wednesday (10am - 2am)
+- Went to the office to see Dr. Baskar
+- Test trianing plant point clouds on chamfer distance loss
+- Run DeepSDF code
+- Do literature review
+- Study deepSDF code to understand everything
+- Understand Decoder, inference, 
+- mesh my point clouds
+- prepare my training data
+- Understand code for Dataloader
+- Train model on my data
+- rewatch mesh construction
+- View latent presentation
 
 Thursday
-
+- Sample size distribution 
+- work on tasks
+-
 Friday
 
 Saturday
