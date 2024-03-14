@@ -1,0 +1,32 @@
+Sunday
+- Wrote entire baseline of PointNET AE from 11-5:30pm
+
+Monday 
+- Prepared presentation	for Dr. Aditya
+- Reran failed tests 
+- Began work on data analysis algorithms for graphs and plots to better show the data
+-Done some early work on
+        Vanilla PointNET AE for point cloud shape reconstruction
+        MLP for 3D reconstruction using direct SDF loss (matching cubes for rendering)
+        MLP for 3D reconstruction using Eikonal Equation (matching cubes for rendering)
+
+
+Tuesday
+- Worked early morning in lab (9-1pm) (7-11pm)
+- Made new Slides for AIIRA geometry meeting 
+- Presented in AIIRA geometry meeting to Dr. Ardash, Dr. Aditya, and Dr. Soumick (got feedback)
+- Implemented feedback to my presentation.
+- Reran control test and first test. Cleaned some of my code
+- Communicated with Anushrut for next meeting time this week
+
+Wednesday 
+- Did more study of Persistent Homology
+- Met one on one with Dr. Baskar and Dr. Aditya, to research my TDA work (got feedback)
+- Got research goals from Dr. Aditya
+- Attended 3-5pm collective team meeting 
+
+Thursday
+
+Friday
+
+Saturday
