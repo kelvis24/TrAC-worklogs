@@ -1,0 +1,27 @@
+Sunday
+- Contacted Anushrut for mesh help
+- Tried new approaches to making a mesh
+
+Monday 
+- Gave no TDA updates
+- Presented to Dr. Aditya
+-	Showed running on plant PC
+-	Showed Point Cloud Size Distribution Plot
+- 	Demonstrated DeepSDF code
+
+Tuesday (10am -10pm)
+- Attended Tuesday presentation with intent to present
+
+Wednesday (10am - 2am)
+- Went to the office to see Dr. Baskar
+- Test trianing plant point clouds on chamfer distance loss
+
+- View latent presentation
+
+Thursday
+- Sample size distribution 
+- work on tasks
+-
+Friday
+
+Saturday

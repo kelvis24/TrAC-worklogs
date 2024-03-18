@@ -40,9 +40,10 @@ Wednesday (10am - 2am)
 - View latent presentation
 
 Thursday
-- Sample size distribution 
-- work on tasks
+- work on tasks documentation
 -
 Friday
+- Sample size distribution graphs
 
 Saturday
+- Tried correcting  meshes by trying new way to make meshes
